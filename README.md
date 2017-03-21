@@ -4,6 +4,7 @@
 1) Clone repository ( ```git clone https://github.com/levadadenys/Tag-Labeling-on-Img-from-dragNdrop.git``` )
 2) Open repository directory and instal npm packages ( ```npm install```), wait `till all the packages will be installed.
 3) Go to public directory and open up ```index.html```
+4) Just drag and drop or open any img file and start adding tags(by clicking on img) (if you don`t have any img, you can use ```imgExample.png``` from ```public directory```)
 
 
 If you want to see code and documentation: go to ```src``` directory and open ```app.jsx``` file
